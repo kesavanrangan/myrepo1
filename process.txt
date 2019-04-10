@@ -1,0 +1,107 @@
+root         1     0  0 13:15 ?        00:00:04 /lib/systemd/systemd --system --deserialize 26
+root         2     0  0 13:15 ?        00:00:00 [kthreadd]
+root         3     2  0 13:15 ?        00:00:00 [ksoftirqd/0]
+root         4     2  0 13:15 ?        00:00:00 [kworker/0:0]
+root         5     2  0 13:15 ?        00:00:00 [kworker/0:0H]
+root         7     2  0 13:15 ?        00:00:00 [rcu_sched]
+root         8     2  0 13:15 ?        00:00:00 [rcu_bh]
+root         9     2  0 13:15 ?        00:00:00 [migration/0]
+root        10     2  0 13:15 ?        00:00:00 [watchdog/0]
+root        11     2  0 13:15 ?        00:00:00 [kdevtmpfs]
+root        12     2  0 13:15 ?        00:00:00 [netns]
+root        13     2  0 13:15 ?        00:00:00 [perf]
+root        14     2  0 13:15 ?        00:00:00 [xenwatch]
+root        15     2  0 13:15 ?        00:00:00 [xenbus]
+root        17     2  0 13:15 ?        00:00:00 [khungtaskd]
+root        18     2  0 13:15 ?        00:00:00 [writeback]
+root        19     2  0 13:15 ?        00:00:00 [ksmd]
+root        20     2  0 13:15 ?        00:00:00 [khugepaged]
+root        21     2  0 13:15 ?        00:00:00 [crypto]
+root        22     2  0 13:15 ?        00:00:00 [kintegrityd]
+root        23     2  0 13:15 ?        00:00:00 [bioset]
+root        24     2  0 13:15 ?        00:00:00 [kblockd]
+root        25     2  0 13:15 ?        00:00:00 [ata_sff]
+root        26     2  0 13:15 ?        00:00:00 [md]
+root        27     2  0 13:15 ?        00:00:00 [devfreq_wq]
+root        28     2  0 13:15 ?        00:00:00 [kworker/u30:1]
+root        30     2  0 13:15 ?        00:00:00 [kswapd0]
+root        31     2  0 13:15 ?        00:00:00 [vmstat]
+root        32     2  0 13:15 ?        00:00:00 [fsnotify_mark]
+root        33     2  0 13:15 ?        00:00:00 [ecryptfs-kthrea]
+root        49     2  0 13:15 ?        00:00:00 [kthrotld]
+root        50     2  0 13:15 ?        00:00:00 [bioset]
+root        51     2  0 13:15 ?        00:00:00 [bioset]
+root        52     2  0 13:15 ?        00:00:00 [bioset]
+root        53     2  0 13:15 ?        00:00:00 [bioset]
+root        54     2  0 13:15 ?        00:00:00 [bioset]
+root        55     2  0 13:15 ?        00:00:00 [bioset]
+root        56     2  0 13:15 ?        00:00:00 [bioset]
+root        57     2  0 13:15 ?        00:00:00 [bioset]
+root        58     2  0 13:15 ?        00:00:00 [bioset]
+root        59     2  0 13:15 ?        00:00:00 [bioset]
+root        60     2  0 13:15 ?        00:00:00 [bioset]
+root        61     2  0 13:15 ?        00:00:00 [bioset]
+root        62     2  0 13:15 ?        00:00:00 [bioset]
+root        63     2  0 13:15 ?        00:00:00 [bioset]
+root        64     2  0 13:15 ?        00:00:00 [bioset]
+root        65     2  0 13:15 ?        00:00:00 [bioset]
+root        66     2  0 13:15 ?        00:00:00 [bioset]
+root        67     2  0 13:15 ?        00:00:00 [bioset]
+root        68     2  0 13:15 ?        00:00:00 [bioset]
+root        69     2  0 13:15 ?        00:00:00 [bioset]
+root        70     2  0 13:15 ?        00:00:00 [bioset]
+root        71     2  0 13:15 ?        00:00:00 [bioset]
+root        72     2  0 13:15 ?        00:00:00 [bioset]
+root        73     2  0 13:15 ?        00:00:00 [bioset]
+root        74     2  0 13:15 ?        00:00:00 [scsi_eh_0]
+root        75     2  0 13:15 ?        00:00:00 [scsi_tmf_0]
+root        76     2  0 13:15 ?        00:00:00 [scsi_eh_1]
+root        77     2  0 13:15 ?        00:00:00 [scsi_tmf_1]
+root        79     2  0 13:15 ?        00:00:00 [bioset]
+root        83     2  0 13:15 ?        00:00:00 [ipv6_addrconf]
+root        96     2  0 13:15 ?        00:00:00 [deferwq]
+root       268     2  0 13:15 ?        00:00:00 [raid5wq]
+root       300     2  0 13:15 ?        00:00:00 [bioset]
+root       324     2  0 13:15 ?        00:00:00 [jbd2/xvda1-8]
+root       325     2  0 13:15 ?        00:00:00 [ext4-rsv-conver]
+root       387     2  0 13:15 ?        00:00:00 [iscsi_eh]
+root       389     2  0 13:15 ?        00:00:00 [kworker/0:1H]
+root       391     2  0 13:15 ?        00:00:00 [ib_addr]
+root       397     2  0 13:15 ?        00:00:00 [ib_mcast]
+root       399     2  0 13:15 ?        00:00:00 [ib_nl_sa_wq]
+root       401     2  0 13:15 ?        00:00:00 [ib_cm]
+root       402     2  0 13:15 ?        00:00:00 [iw_cm_wq]
+root       405     2  0 13:15 ?        00:00:00 [rdma_cm]
+root       431     1  0 13:15 ?        00:00:00 /lib/systemd/systemd-journald
+root       465     2  0 13:15 ?        00:00:00 [kauditd]
+root       520     1  0 13:15 ?        00:00:00 /sbin/lvmetad -f
+root       557     2  0 13:15 ?        00:00:00 [loop0]
+root       561     2  0 13:15 ?        00:00:00 [loop1]
+root       599     2  0 13:15 ?        00:00:00 [loop2]
+root       607     2  0 13:15 ?        00:00:00 [loop3]
+root      1091     1  0 13:15 ?        00:00:00 /sbin/dhclient -1 -v -pf /run/dhclient.eth0.pid -lf /var/lib/dhcp/dhclient.eth0.leases -I -df /var/lib/dhcp/dhclient6.eth0.leases eth0
+root      1351     1  0 13:15 ?        00:00:00 /sbin/iscsid
+root      1352     1  0 13:15 ?        00:00:00 /sbin/iscsid
+root      1366     1  0 13:15 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root      1373     1  0 13:15 ?        00:00:00 /usr/sbin/acpid
+root      1388     1  0 13:15 ?        00:00:00 /usr/sbin/cron -f
+root      1393     1  0 13:15 ?        00:00:00 /lib/systemd/systemd-logind
+root      1398     1  0 13:15 ?        00:00:00 /usr/bin/lxcfs /var/lib/lxcfs/
+root      1402     1  0 13:15 ?        00:00:00 /usr/lib/snapd/snapd
+root      1407     1  0 13:15 ?        00:00:00 /snap/amazon-ssm-agent/1068/amazon-ssm-agent
+root      1440     1  0 13:15 ?        00:00:00 /usr/sbin/sshd -D
+root      1445     1  0 13:15 ?        00:00:00 nginx: master process /usr/sbin/nginx -g daemon on; master_process on;
+root      1459     1  0 13:15 ?        00:00:00 /sbin/mdadm --monitor --pid-file /run/mdadm/monitor.pid --daemonise --scan --syslog
+root      1462     1  0 13:15 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1545     1  0 13:15 ttyS0    00:00:00 /sbin/agetty --keep-baud 115200 38400 9600 ttyS0 vt220
+root      1548     1  0 13:15 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+root      4731     1  0 13:15 ?        00:00:00 /lib/systemd/systemd-udevd
+root      8460  1440  0 13:15 ?        00:00:00 sshd: ubuntu [priv]
+root      8603  8589  0 13:15 pts/0    00:00:00 sudo su -
+root      8604  8603  0 13:15 pts/0    00:00:00 su -
+root      8605  8604  0 13:15 pts/0    00:00:00 -su
+root     10475     2  0 13:21 ?        00:00:00 [kworker/u30:2]
+root     10500     1  1 13:23 pts/0    00:00:14 /usr/bin/java -Djava.util.logging.config.file=/root/tomcat9/conf/logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djdk.tls.ephemeralDHKeySize=2048 -classpath /root/tomcat9/bin/bootstrap.jar:/root/tomcat9/bin/tomcat-juli.jar -Dcatalina.base=/root/tomcat9 -Dcatalina.home=/root/tomcat9 -Djava.io.tmpdir=/root/tomcat9/temp org.apache.catalina.startup.Bootstrap start
+root     10634     2  0 13:30 ?        00:00:00 [kworker/0:1]
+root     16644  8605  0 13:38 pts/0    00:00:00 ps -ef
+root     16645  8605  0 13:38 pts/0    00:00:00 grep --color=auto root
