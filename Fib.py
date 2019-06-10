@@ -1,6 +1,6 @@
 import sys
 
-num = int(sys.argv[0])
+num = int(sys.argv[1])
 
 a,b = 0,1
 
