@@ -1,4 +1,6 @@
-num = 35
+import sys
+
+num = sys.argv[0]
 
 a,b = 0,1
 
