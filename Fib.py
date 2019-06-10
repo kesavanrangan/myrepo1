@@ -1,4 +1,4 @@
-num = int(input("Enter the number of fields: "))
+num = 35
 
 a,b = 0,1
 
