@@ -11,6 +11,6 @@ for i in range(num):
     a,b = b,a+b
     x = datetime.datetime.now()
     print(" \n\n")
-    print(x.strftime("%H:%m:%S %b-%d-%Y"))
+    print(x.strftime("%H:%m:%S:%f %b-%d-%Y"))
 
 print("\n The file now ends here!!!")
