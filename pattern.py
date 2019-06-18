@@ -1,20 +1,13 @@
-def pypart(n): 
-      
-    # outer loop to handle number of rows 
-    # n in this case 
-    for i in range(0, n): 
-      
-        # inner loop to handle number of columns 
-        # values changing acc. to outer loop 
-        for j in range(0, i+1): 
-          
-            # printing stars 
-            print("* "), 
-       
-        # ending line after each row 
-        print("\r") 
-  
-# Driver Code 
-n = 50
-pypart(n) 
+import sys
 
+n = int(sys.argv[1])
+
+for i in range(0,n):
+    for j in range(0,i+1):
+        print("* "),
+    print("\r")
+
+for i in range(n,0,-1):
+    for j in range(i+1,0,-1):
+        print("* "),
+    print("\r")
