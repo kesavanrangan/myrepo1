@@ -48,12 +48,12 @@ def plot_test():
     plt.show()
     
 
-def Training():
-    model = KNeighborsClassifier(n_neighbors=5)
+def Training(clusters):
+    model = KNeighborsClassifier(n_neighbors=clusters)
     model.fit(X_train,y_train)
     global final_pred
     final_pred = model.predict(X_test)
-    print("The prediction Completed \n")
+    print("The prediction Completed \n for the number of clusters: "+str(clusters)+"\n")
     #print(final_pred)
     global final_list
     final_list = list(final_pred)
@@ -67,6 +67,6 @@ def Accuracy():
 
 
 ReadCsv()
-Training()
+Training(5)
 plot_test()
 Accuracy()
