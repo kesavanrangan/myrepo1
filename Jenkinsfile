@@ -2,7 +2,7 @@ node{
     Stage('Get the code')
     {
       steps{
-        git https://github.com/kesavanrangan/myrepo1/
+        git 'https://github.com/kesavanrangan/myrepo1.git'
         }
     }
     Stage('Build the Fib file')
